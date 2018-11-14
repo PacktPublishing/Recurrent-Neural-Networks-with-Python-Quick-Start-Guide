@@ -1,0 +1,4 @@
+tensorflow==1.8.0
+tensorlayer==1.10.1
+sklearn==0.19.2
+
